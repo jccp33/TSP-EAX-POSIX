@@ -1,0 +1,1053 @@
+set xrange [-1:108]
+set yrange [-1:52]
+
+set arrow 1 from 74,6 to 63,6 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 2 from 63,6 to 57,12 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 3 from 57,12 to 48,6 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 4 from 48,6 to 34,5 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 5 from 34,5 to 33,15 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 6 from 33,15 to 34,15 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 7 from 34,15 to 35,17 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 8 from 35,17 to 38,16 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 9 from 38,16 to 38,20 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 10 from 38,20 to 40,22 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 11 from 40,22 to 41,23 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 12 from 41,23 to 41,32 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 13 from 41,32 to 38,30 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 14 from 38,30 to 35,31 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 15 from 35,31 to 34,31 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 16 from 34,31 to 33,31 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 17 from 33,31 to 32,31 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 18 from 32,31 to 33,29 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 19 from 33,29 to 34,29 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 20 from 34,29 to 34,26 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 21 from 34,26 to 33,26 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 22 from 33,26 to 32,26 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 23 from 32,26 to 28,28 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 24 from 28,28 to 25,26 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 25 from 25,26 to 25,28 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 26 from 25,28 to 25,29 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 27 from 25,29 to 28,30 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 28 from 28,30 to 28,34 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 29 from 28,34 to 18,37 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 30 from 18,37 to 18,35 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 31 from 18,35 to 18,33 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 32 from 18,33 to 15,31 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 33 from 15,31 to 18,31 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 34 from 18,31 to 18,29 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 35 from 18,29 to 18,27 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 36 from 18,27 to 18,25 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 37 from 18,25 to 18,23 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 38 from 18,23 to 15,25 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 39 from 15,25 to 15,19 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 40 from 15,19 to 15,13 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 41 from 15,13 to 18,13 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 42 from 18,13 to 18,15 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 43 from 18,15 to 18,17 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 44 from 18,17 to 18,19 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 45 from 18,19 to 18,21 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 46 from 18,21 to 25,22 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 47 from 25,22 to 25,24 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 48 from 25,24 to 25,23 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 49 from 25,23 to 28,20 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 50 from 28,20 to 28,16 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 51 from 28,16 to 25,15 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 52 from 25,15 to 25,11 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 53 from 25,11 to 25,9 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 54 from 25,9 to 18,11 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 55 from 18,11 to 15,8 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 56 from 15,8 to 11,10 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 57 from 11,10 to 12,10 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 58 from 12,10 to 12,5 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 59 from 12,5 to 8,0 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 60 from 8,0 to 2,0 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 61 from 2,0 to 5,8 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 62 from 5,8 to 9,10 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 63 from 9,10 to 10,10 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 64 from 10,10 to 5,13 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 65 from 5,13 to 0,13 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 66 from 0,13 to 5,19 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 67 from 5,19 to 5,25 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 68 from 5,25 to 0,26 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 69 from 0,26 to 0,27 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 70 from 0,27 to 5,31 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 71 from 5,31 to 5,37 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 72 from 5,37 to 0,39 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 73 from 0,39 to 5,43 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 74 from 5,43 to 15,43 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 75 from 15,43 to 15,37 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 76 from 15,37 to 18,39 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 77 from 18,39 to 18,41 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 78 from 18,41 to 18,42 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 79 from 18,42 to 18,44 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 80 from 18,44 to 18,45 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 81 from 18,45 to 28,47 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 82 from 28,47 to 28,43 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 83 from 28,43 to 28,40 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 84 from 28,40 to 34,41 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 85 from 34,41 to 34,38 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 86 from 34,38 to 38,34 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 87 from 38,34 to 41,34 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 88 from 41,34 to 41,35 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 89 from 41,35 to 41,36 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 90 from 41,36 to 51,45 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 91 from 51,45 to 51,47 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 92 from 51,47 to 61,47 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 93 from 61,47 to 61,45 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 94 from 61,45 to 57,44 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 95 from 57,44 to 48,27 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 96 from 48,27 to 48,22 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 97 from 48,22 to 56,25 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 98 from 56,25 to 57,25 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 99 from 57,25 to 64,22 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 100 from 64,22 to 74,29 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 101 from 74,29 to 74,35 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 102 from 74,35 to 74,39 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 103 from 74,39 to 71,47 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 104 from 71,47 to 71,45 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 105 from 71,45 to 78,39 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 106 from 78,39 to 79,37 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 107 from 79,37 to 80,41 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 108 from 80,41 to 84,38 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 109 from 84,38 to 84,34 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 110 from 84,34 to 78,35 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 111 from 78,35 to 79,33 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 112 from 79,33 to 78,32 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 113 from 78,32 to 74,24 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 114 from 74,24 to 74,20 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 115 from 74,20 to 74,16 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 116 from 74,16 to 71,16 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 117 from 71,16 to 71,13 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 118 from 71,13 to 71,11 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 119 from 71,11 to 74,12 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 120 from 74,12 to 78,10 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 121 from 78,10 to 79,10 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 122 from 79,10 to 80,10 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 123 from 80,10 to 81,17 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 124 from 81,17 to 77,21 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 125 from 77,21 to 84,20 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 126 from 84,20 to 84,24 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 127 from 84,24 to 84,29 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 128 from 84,29 to 107,27 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 129 from 107,27 to 84,6 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 130 from 84,6 to 80,5 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+set arrow 131 from 80,5 to 74,6 nohead filled back lw 2 lc rgb "red"
+plot '-'  w p ls 7 lc rgb "#0B6138" pointsize 0 notitle
+74 6
+e
+
+pause 0.1
+refresh
+
+
+pause -1
