@@ -22,7 +22,7 @@ To plot results, the "Plot ... ()" functions are used, which are used by the GNU
 The test problems that were used for the development of this software are found in:
 	http://www.math.uwaterloo.ca/tsp/vlsi/index.html
 This code works only with instances of the symmetric TSP and some of the parameters that can be edited are the following:
-INPUT_FILE: Data file (coordinates of the points that make up the problem, start on line data on line 7).
+INPUT_FILE: Data file (coordinates of the points that make up the problem, start on line 7).
 DIMENSION:  Total cities that comprise the problem.
 BEST_OLIB:  Best reported solution to the problem.
 GENERATION: Number of generations for the genetic algorithm.
@@ -58,7 +58,7 @@ Para gráficar resultados se utilizan las funciones "Plot...()" las cuales utili
 Los problemas de prueba que se utilizaron para el desarrollo de este software se encuentran en:
 	http://www.math.uwaterloo.ca/tsp/vlsi/index.html
 Este código funciona únicamente con instancias del TSP simétrico y algunos de los parámetros que se pueden editar son los siguientes:
-INPUT_FILE: Archivo de datos (coordenadas de los puntos que conforman el problema, iniciar en la línea datos en línea 7).
+INPUT_FILE: Archivo de datos (coordenadas de los puntos que conforman el problema, iniciar en la línea 7).
 DIMENSION:  Total de ciudades que comprende el problema.
 BEST_OLIB:  Mejor solución reportada del problema.
 GENERATION: Cantidad de generaciones para el algoritmo genético.
